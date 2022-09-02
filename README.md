@@ -1,4 +1,4 @@
-# Learning_Algorithms_with_Data_Structures_C_Language [2022.01.02 ~ 2022.01.31]
+# Learning_Algorithms_with_Data_Structures_C_Language [2022.01.02 ~ 2022.02.07]
 
 ## 계획
 데이터 분석 동아리_ 소모둠 : c언어 스터디<br>
